@@ -1,7 +1,5 @@
 # Whatoplay Javascript Style Guide
 
-[//]: [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 _A mostly reasonable approach to JavasScript guided by AirBnb_
