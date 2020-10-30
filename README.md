@@ -78,7 +78,7 @@ _A mostly reasonable approach to JavasScript guided by AirBnb_
 
 -   Pros and cons of `async` / `await` or generators
 
-    >     The polyfill for these contructs generates very large code. This may change once all our supported browsers support ES6 natively.
+    > The polyfill for these contructs generates very large code. This may change once all our supported browsers support ES6 natively.
 
     Using async/await vs promise
 
