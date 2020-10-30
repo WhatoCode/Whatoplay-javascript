@@ -6,7 +6,7 @@ _A mostly reasonable approach to JavasScript guided by AirBnb_
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io/).
 
-# Table of Contents
+## Table of Contents
 
 ## Types
 
