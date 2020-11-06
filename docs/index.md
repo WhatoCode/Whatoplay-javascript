@@ -8,7 +8,11 @@ _A mostly reasonable approach to JavasScript guided by AirBnb_
 
 ## Table of Contents
 
+-   wip (working in progress)
+
 ## Types
+
+-   wip (working in progress)
 
 ## Destructuring
 
