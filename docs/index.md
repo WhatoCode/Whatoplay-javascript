@@ -1343,15 +1343,15 @@
 
     ```javascript
     // bad
-    const AirbnbStyleGuide = require("./AirbnbStyleGuide");
-    module.exports = AirbnbStyleGuide.es6;
+    const WhatoplayStyleGuide = require("./WhatoplayStyleGuide");
+    module.exports = WhatoplayStyleGuide.es6;
 
     // ok
-    import AirbnbStyleGuide from "./AirbnbStyleGuide";
-    export default AirbnbStyleGuide.es6;
+    import WhatoplayStyleGuide from "./WhatoplayStyleGuide";
+    export default WhatoplayStyleGuide.es6;
 
     // best
-    import { es6 } from "./AirbnbStyleGuide";
+    import { es6 } from "./WhatoplayStyleGuide";
     export default es6;
     ```
 
@@ -1363,10 +1363,10 @@
 
     ```javascript
     // bad
-    import * as AirbnbStyleGuide from "./AirbnbStyleGuide";
+    import * as WhatoplayStyleGuide from "./WhatoplayStyleGuide";
 
     // good
-    import AirbnbStyleGuide from "./AirbnbStyleGuide";
+    import WhatoplayStyleGuide from "./WhatoplayStyleGuide";
     ```
 
 <a name="modules--no-export-from-import"></a><a name="10.3"></a>
@@ -1378,11 +1378,11 @@
     ```javascript
     // bad
     // filename es6.js
-    export { es6 as default } from "./AirbnbStyleGuide";
+    export { es6 as default } from "./WhatoplayStyleGuide";
 
     // good
     // filename es6.js
-    import { es6 } from "./AirbnbStyleGuide";
+    import { es6 } from "./WhatoplayStyleGuide";
     export default es6;
     ```
 
@@ -2642,14 +2642,14 @@
 
     ```javascript
     // bad
-    import { es6 } from "./AirbnbStyleGuide";
+    import { es6 } from "./WhatoplayStyleGuide";
     // ...
     export default es6;
     ```
 
     ```javascript
     // bad
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from './WhatoplayStyleGuide';
       // ...
     export default es6;↵
     ↵
@@ -2657,7 +2657,7 @@
 
     ```javascript
     // good
-    import { es6 } from './AirbnbStyleGuide';
+    import { es6 } from './WhatoplayStyleGuide';
       // ...
     export default es6;↵
     ```
