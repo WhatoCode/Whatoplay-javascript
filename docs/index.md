@@ -2907,7 +2907,7 @@
     // bad
     $.ajax({
     	method: "POST",
-    	url: "https://airbnb.com/",
+    	url: "https://superadmin.whatoplay.com/",
     	data: { name: "John" }
     })
     	.done(() => console.log("Congratulations!"))
@@ -2925,7 +2925,7 @@
     // good
     $.ajax({
     	method: "POST",
-    	url: "https://airbnb.com/",
+    	url: "https://superadmin.whatoplay.com/",
     	data: { name: "John" }
     })
     	.done(() => console.log("Congratulations!"))
