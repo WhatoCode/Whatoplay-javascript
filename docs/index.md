@@ -1,14 +1,18 @@
-# Whatoplay Javascript Style Guide
+[//]: # "# Whatoplay Javascript Style Guide"
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-_A mostly reasonable approach to JavasScript guided by AirBnb_
+[//]: # "_A mostly reasonable approach to JavasScript guided by AirBnb_"
 
 > **Note**: this guide assumes you are using [Babel](https://babeljs.io/).
 
 ## Table of Contents
 
+-   wip (working in progress)
+
 ## Types
+
+-   wip (working in progress)
 
 ## Destructuring
 
